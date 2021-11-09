@@ -7,8 +7,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 5,
-        "22L": 15
+        "04R": 7,
+        "22L": 20
       },
       "geometry": {
         "type": "LineString",
@@ -38,8 +38,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 7,
-        "22L": 12
+        "04R": 10,
+        "22L": 15
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +70,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 12,
-        "22L": 12
+        "22L": 20
       },
       "geometry": {
         "type": "LineString",
@@ -100,8 +100,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 10,
-        "22L": 12
+        "04R": 12,
+        "22L": 15
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +131,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 12,
+        "04R": 15,
         "22L": 12
       },
       "geometry": {
@@ -162,8 +162,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 10,
-        "22L": 5
+        "04R": 15,
+        "22L": 7
       },
       "geometry": {
         "type": "LineString",
@@ -194,7 +194,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 12,
-        "22L": 7
+        "22L": 12
       },
       "geometry": {
         "type": "LineString",
@@ -224,8 +224,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 10,
-        "22L": 5
+        "04R": 12,
+        "22L": 7
       },
       "geometry": {
         "type": "LineString",
@@ -256,7 +256,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 15,
-        "22L": 5
+        "22L": 7
       },
       "geometry": {
         "type": "LineString",
@@ -286,8 +286,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 7,
-        "22L": 12
+        "04R": 10,
+        "22L": 15
       },
       "geometry": {
         "type": "LineString",
