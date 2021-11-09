@@ -6,9 +6,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2B",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "15",
         "26R": "17",
@@ -51,9 +48,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2D",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "10",
         "26R": "17",
@@ -96,9 +90,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2F",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "12",
         "26R": "12",
@@ -141,9 +132,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TS3NORD",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -186,9 +174,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TS4NORD",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -231,9 +216,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TS4SUD",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "15",
@@ -276,9 +258,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TS3SUD",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "15",
@@ -321,9 +300,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2E",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "10",
@@ -366,9 +342,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2J",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "7",
@@ -411,9 +384,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2C",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -456,9 +426,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2A",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -501,9 +468,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2ABIS",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -546,9 +510,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T2G",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -591,9 +552,6 @@
       "type": "Feature",
       "properties": {
         "Name": "CARGOM",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -636,9 +594,6 @@
       "type": "Feature",
       "properties": {
         "Name": "CARGON1",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -681,9 +636,6 @@
       "type": "Feature",
       "properties": {
         "Name": "CARGON2",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -726,9 +678,6 @@
       "type": "Feature",
       "properties": {
         "Name": "CARGOP",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -771,9 +720,6 @@
       "type": "Feature",
       "properties": {
         "Name": "H",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "7",
         "26R": "20",
@@ -816,9 +762,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T3",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -861,9 +804,6 @@
       "type": "Feature",
       "properties": {
         "Name": "R",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "10",
         "27L": "10",
         "26R": "20",
@@ -906,9 +846,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T1SUDOUEST",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -951,9 +888,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T1NORDEST",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -996,9 +930,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T1NORDOUEST",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -1041,9 +972,6 @@
       "type": "Feature",
       "properties": {
         "Name": "T1SUDOUEST",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "20",
         "27L": "20",
         "26R": "20",
@@ -1086,9 +1014,6 @@
       "type": "Feature",
       "properties": {
         "Name": "FEDEX",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
         "09R": "7",
         "27L": "15",
         "26R": "30",
