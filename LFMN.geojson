@@ -1,5 +1,4 @@
 {
-  "Name": "LFMN",
   "type": "FeatureCollection",
   "features": [
     {
@@ -89,8 +88,11 @@
     {
       "type": "Feature",
       "properties": {
-        "04R": 12,
-        "22L": 15
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "04R": 17,
+        "22L": 20
       },
       "geometry": {
         "type": "LineString",
