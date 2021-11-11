@@ -131,8 +131,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 17,
-        "22L": 12
+        "04R": 20,
+        "22L": 15
       },
       "geometry": {
         "type": "LineString",
@@ -193,8 +193,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "04R": 15,
-        "22L": 15
+        "04R": 17,
+        "22L": 17
       },
       "geometry": {
         "type": "LineString",
