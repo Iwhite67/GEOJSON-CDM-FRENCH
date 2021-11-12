@@ -8,7 +8,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 10,
-        "22L": 20
+        "22L": 20,
+        "Name": "Stand 52 - 62 + 77 - 71 + 53 + 51"
       },
       "geometry": {
         "type": "LineString",
@@ -39,7 +40,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 15,
-        "22L": 20
+        "22L": 20,
+        "Name": "Stand 46 - 40"
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +72,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 17,
-        "22L": 20
+        "22L": 20,
+        "Name": "Stand 28 - 16"
       },
       "geometry": {
         "type": "LineString",
@@ -101,7 +104,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 15,
-        "22L": 20
+        "22L": 20,
+        "Name": "Stand 19 - 23 + 41 - 47"
       },
       "geometry": {
         "type": "LineString",
@@ -132,7 +136,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 20,
-        "22L": 15
+        "22L": 15,
+        "Name": "Stand 16 - 10"
       },
       "geometry": {
         "type": "LineString",
@@ -163,7 +168,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 20,
-        "22L": 10
+        "22L": 10,
+        "Name": "Stand 8 - 2 + 39 - 31"
       },
       "geometry": {
         "type": "LineString",
@@ -194,7 +200,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 17,
-        "22L": 17
+        "22L": 17,
+        "Name": "Stand 69 - 61"
       },
       "geometry": {
         "type": "LineString",
@@ -225,7 +232,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 20,
-        "22L": 10
+        "22L": 10,
+        "Name": "Stand K"
       },
       "geometry": {
         "type": "LineString",
@@ -256,7 +264,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 20,
-        "22L": 10
+        "22L": 10,
+        "Name": "Stand K"
       },
       "geometry": {
         "type": "LineString",
@@ -287,7 +296,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "04R": 12,
-        "22L": 17
+        "22L": 17,
+        "Name": "Stand 50 + 48"
       },
       "geometry": {
         "type": "LineString",
@@ -307,6 +317,86 @@
           [
             7.208227515220641,
             43.660331566788855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "04R": 17,
+        "22L": 17,
+        "Name": "Stand 5 - 17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.210410833358764,
+              43.662896762442756
+            ],
+            [
+              7.21078634262085,
+              43.66142207939329
+            ],
+            [
+              7.212792634963988,
+              43.66268720442793
+            ],
+            [
+              7.2126853466033936,
+              43.66316064927274
+            ],
+            [
+              7.210410833358764,
+              43.662896762442756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "04R": 12,
+        "22L": 17,
+        "Name": "Stand 49"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.208576202392578,
+              43.6590935587225
+            ],
+            [
+              7.209112644195557,
+              43.658200935188226
+            ],
+            [
+              7.210657596588134,
+              43.659287605560955
+            ],
+            [
+              7.210056781768799,
+              43.65995512189593
+            ],
+            [
+              7.208576202392578,
+              43.6590935587225
+            ]
           ]
         ]
       }
